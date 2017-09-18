@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefSwitch", "RefSwitch\RefSwitch.csproj", "{D9956F25-F41D-4148-8BB1-EA9BE90277FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9956F25-F41D-4148-8BB1-EA9BE90277FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9956F25-F41D-4148-8BB1-EA9BE90277FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9956F25-F41D-4148-8BB1-EA9BE90277FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9956F25-F41D-4148-8BB1-EA9BE90277FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52F9FE55-44BD-46AB-BD2F-46B031026F1B}
+	EndGlobalSection
+EndGlobal
